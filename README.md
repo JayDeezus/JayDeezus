@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Peresonal Code of Ethics and Scope of Responsibility:
+-----------------------------------------------------
+* For all scripts I develop and run from equipment I control:
+  * I assume responsibility for all data produced.
+    - I do not assume responsibility over the output of project forks, or for output of scripts I write that are run by other people or teams/organizations/companies.
+  * For Machine Learning and Artificial Intelligence projects, I assume responsibility for setting limits for the source of training data.
+    * If I use publicly available data (example: dataset from UCI Machine Learning Repository or a model from Huggingface), I will cite the author of the dataset and provide a link to its usage license.
+    * If I compile the training data myself, I will notify the sources--people or organizations--as to the specific data I intend to collect, and I will place that notification in a prominent location.
